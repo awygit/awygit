@@ -16,11 +16,31 @@
   <img src="https://thelonelytribalist.files.wordpress.com/2015/08/nointernet_dinogame_gif.gif?w=412&h=124&crop=1" /> </p><br></br>
   
   
-  <p align='left'>🎓 I graduated in Graphic Design 🎨 and currently work with computer maintenance. 
-  My curiosity and willingness to learn brought me to the world of programming. Therefore, my focus is to learn development languages (mainly frontend / mobile) and in the future to enter the industry and change my field of work. <br></br></p>
-  
-  
-  🎖️ I'm currently studying Systems Analysis and Development at the Federal Institute of Sergipe. <br></br>
+ 
+```javascript
+
+const awy = {
+    
+    /*|🎓 I graduated in Graphic Design 🎨 and currently work with computer maintenance. 
+      | My curiosity and willingness to learn brought me to the world of programming. 
+      | Therefore, my focus is to learn development languages (mainly frontend / mobile) 
+      | and in the future to enter the industry and change my field of work. */
+
+    pronouns: "She" | "Her",
+    iLike: ["cats", "technology", "games", "coffee", "movies", "Marvel", "DCcomics"],
+    iDontLike: ["tea", "cigarettes", "noise", "drawings"],
+    
+    technologies: {
+        frontEnd: ["CSS", "HTML5", "React.js", "Figma", "Flutter"], /*learning*/    
+        devOps: ["git", "AWS", "Docker"], /*learning*/  
+    },
+    
+    currentFocus: "Fullstack",
+    currentLearning: "Oracle Next Education", "System Analysis and Development at Federal Institute of Sergipe" 
+    
+};
+```
+<br>
   
 
    💻 My workspace<br/><br/>

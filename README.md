@@ -31,11 +31,12 @@ const awy = {
     iDontLike: ["tea", "cigarettes", "noise"],
     
     technologies: {
-        frontEnd: ["CSS", "HTML5", "React.js", "Figma", "Flutter"], /*learning*/    
-        devOps: ["git", "AWS", "Docker"], /*learning*/  
+        frontEnd: /*loading*/  
+        backEnd: /*loading*/
+        devOps:  /*loading*/  
     },
     
-    currentFocus: "Fullstack",
+    currentFocus: "WebDevelopment", "MobileDevelopment"
     currentLearning: "Oracle Next Education", "System Analysis and Development at Federal Institute of Sergipe" 
     
 };

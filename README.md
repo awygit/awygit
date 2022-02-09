@@ -28,7 +28,7 @@ const awy = {
 
     pronouns: "She" | "Her",
     iLike: ["cats", "technology", "games", "coffee", "movies", "Marvel", "DCcomics"],
-    iDontLike: ["tea", "cigarettes", "noise", "drawings"],
+    iDontLike: ["tea", "cigarettes", "noise"],
     
     technologies: {
         frontEnd: ["CSS", "HTML5", "React.js", "Figma", "Flutter"], /*learning*/    

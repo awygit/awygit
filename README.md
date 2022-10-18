@@ -37,7 +37,7 @@ const awy = {
     },
     
     currentFocus: "WebDevelopment", "MobileDevelopment"
-    currentLearning: "HiringCoders#3", "System Analysis and Development at Federal Institute of Sergipe" 
+    currentLearning: "UX/UI", "System Analysis and Development at Federal Institute of Sergipe" 
     
 };
 ```

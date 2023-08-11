@@ -32,13 +32,13 @@ const awy = {
     
     technologies: {
         frontEnd: 5% loading
-        Mobile: 3% loading
+        DevMobile: 3% loading
         UX/UI:  15% loading  
     },
     
-    currentFocus: "WebDevelopment", "MobileDevelopment", "UX/UI"
-    currentLearning: <a href="https://howedu.com.br/cohort/ux-design/"> "UX/UI - How Education"</a>,
-   [100% completed:] "System Analysis and Development at Federal Institute of Sergipe" 
+    currentFocus: "WebDevelopment", "MobileDevelopment", "UX/UI" ; 
+    currentLearning: "UX/UI - How Education",
+   [100% completed] "System Analysis and Development at Federal Institute of Sergipe" 
     
 };
 ```

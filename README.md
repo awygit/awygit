@@ -37,7 +37,7 @@ const awy = {
     },
     
     currentFocus: "WebDevelopment", "MobileDevelopment", "UX/UI"
-    currentLearning: "<a href="https://howedu.com.br/cohort/ux-design/"> UX/UI - How Education"</a>,
+    currentLearning: <a href="https://howedu.com.br/cohort/ux-design/"> "UX/UI - How Education"</a>,
    [100% completed:] "System Analysis and Development at Federal Institute of Sergipe" 
     
 };
@@ -62,7 +62,7 @@ const awy = {
   <a href="https://t.me/awygit">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/awy.png">
+  <a href="https://instagram.com/awylabs">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   </center>
